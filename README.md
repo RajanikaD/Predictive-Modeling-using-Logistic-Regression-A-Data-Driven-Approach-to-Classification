@@ -1,0 +1,2 @@
+# Predictive-Modeling-using-Logistic-Regression-A-Data-Driven-Approach-to-Classification
+A project showcasing the development and deployment of a Logistic Regression model using Scikit-Learn. The model is converted to ONNX format for cross-platform deployment, ensuring efficient and reliable predictions. Includes data preprocessing, model training, and validation steps with a focus on production readiness.
