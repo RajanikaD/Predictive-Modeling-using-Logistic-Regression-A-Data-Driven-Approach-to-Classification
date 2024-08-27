@@ -15,8 +15,11 @@ The goal of this project is to train a Logistic Regression model using Scikit-Le
 
 ## Results
 Confusion Matrix: The confusion matrix shows the distribution of correct and incorrect predictions across different classes.
+
 ROC Curve: The ROC curve indicates the model's performance in distinguishing between classes, with the area under the curve (AUC) values demonstrating the model's effectiveness.
+
 Feature Importance: The bar chart shows the importance of different features in the Logistic Regression model, highlighting which features contribute most to the predictions.
+
 Correlation Heatmap: The heatmap illustrates the correlation between different features, aiding in understanding feature relationships and potential multicollinearity issues.
 
 ## Conclusion
